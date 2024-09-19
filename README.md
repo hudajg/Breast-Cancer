@@ -1,4 +1,4 @@
-**This project demonstrates the implementation of machine learning classification algorithms, including Logistic Regression and K-Nearest Neighbors (KNN), for a binary classification task. 
+**This project demonstrates the implementation of machine learning classification algorithms, including Logistic Regression and K-Nearest Neighbors (KNN), for a binary classification (M,B) . 
 The dataset undergoes preprocessing steps such as missing value imputation and feature normalization using StandardScaler. 
 The performance of the models is evaluated using confusion matrices, accuracy scores, and detailed classification reports, with visualizations implemented through seaborn heatmaps. 
 This project highlights effective data handling, model training, and evaluation techniques for classification problems.**
