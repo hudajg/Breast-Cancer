@@ -1,4 +1,4 @@
-# Machine Learning Classification: Logistic Regression and K-Nearest Neighbors (KNN)
+#  Breast-Cancer Classification by Machine Learning: Logistic Regression and K-Nearest Neighbors (KNN)
 
 This project demonstrates the implementation of machine learning classification algorithms, including **Logistic Regression** and **K-Nearest Neighbors (KNN)**, for a binary classification problem (**M: Malignant, B: Benign**). The focus is on effective data preprocessing, model training, and performance evaluation techniques.
 
